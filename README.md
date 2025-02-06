@@ -16,7 +16,7 @@ showing the player's final score. </li>
   <li> Players can restart the game via the "Play Again" button.
  </li>
 </ul>
-<h4> Colour Matcher Visualizer </h4>
+
 
 
 
